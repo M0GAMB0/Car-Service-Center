@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.Scanner;
 
 
-//Interface for diffent services to achieve multiple inheritance
+//Interface for diffent services to achieve abstraction
 //Blueprint of services of Car Service
  interface Service{
     int basicService();
